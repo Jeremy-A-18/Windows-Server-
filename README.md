@@ -39,7 +39,7 @@ Nmap Scan: <br/>
   Server Fully Configured : <br/>
 <img src="https://i.imgur.com/TiP2Plu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+<h2>In conclusuoon this lab helped me understand configuring servers in a windows environment</h2
 
 
 
